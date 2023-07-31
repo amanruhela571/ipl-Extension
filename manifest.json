@@ -1,0 +1,11 @@
+{
+    "name": "Ipl Extension",
+    "version": "1.0.0",
+    "description": "It give news about crickets and ipl",
+    "manifest_version": 3,
+    "author": "Aman ",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Ipl Extension"
+    }
+}
